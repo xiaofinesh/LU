@@ -1,0 +1,22 @@
+# 忽略 MATLAB 临时文件和备份
+*.asv
+*.m~
+*.fig~
+*.bak
+
+# 忽略 CSV 和数据文件（如不想上传）
+*.csv
+*.mat
+*.xlsx
+*.h5
+
+# 忽略 Python 字节码（如果你有用到 Python）
+__pycache__/
+*.pyc
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# VSCode 配置（如果你用 VSCode）
+.vscode/
