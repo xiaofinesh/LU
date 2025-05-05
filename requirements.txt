@@ -1,0 +1,19 @@
+# 基础科学计算
+numpy
+pandas
+
+# 机器学习与模型推理
+scikit-learn
+tensorflow
+
+# 可视化（如需画图、显示压强变化）
+matplotlib
+
+# 读取 CSV、操作时间
+python-dateutil
+
+# 如果用到模型保存与加载
+joblib
+
+# 处理命令行参数（可选）
+argparse
